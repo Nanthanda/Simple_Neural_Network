@@ -3,7 +3,7 @@ Just a simple neural network with three synapses, two input neurons, one output 
 
 Instructions:
 
-1.Create a int variable (Eg.int score) to calculate the fitness;
+1.Create an int variable (Eg.int score) to calculate the fitness;
 
 2.Create an object of class SimpleNN with number of genomes per generation as first parameter and random mutation probability as second parameter or just use as shown in example.
 
